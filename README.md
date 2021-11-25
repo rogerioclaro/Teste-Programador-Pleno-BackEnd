@@ -1,7 +1,5 @@
-# Teste-Programador-Pleno-BackEnd
+# Desafio Desenvolvedor Back End Pleno 2021 AGROCP
 
-Desafio-Programador-Pleno-2021
-Desafio para vaga Desenvolvedor de BackEnd C# no Grupo AgroCP
 
 Todas as tarefas tem que ser feitas em ASP NET CORE 3 ou NET CORE 5 com Entity Framework
 
