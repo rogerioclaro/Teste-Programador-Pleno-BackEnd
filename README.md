@@ -1,7 +1,7 @@
 # Desafio Desenvolvedor Back End Pleno 2021 AGROCP
 
 
-Todas as tarefas tem que ser feitas em ASP NET CORE 3 ou NET CORE 5 com Entity Framework
+Todas as tarefas tem que ser feitas em ASP NET CORE 3 ou NET 5 com Entity Framework
 
 - Todas as tarefas, serão avaliadas. As tarefas terão que ser entregues em dois dias desde do envio por email.
 
